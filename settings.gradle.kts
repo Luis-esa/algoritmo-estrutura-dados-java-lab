@@ -1,0 +1,1 @@
+rootProject.name = "algoritmo-estrutura-dados-java-lab"
